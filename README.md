@@ -7,9 +7,9 @@
 **AGY Meme 表情包插件** 是专为 Google Antigravity 设计的情绪化表情包互动插件。支持 AI 根据对话情绪自动发图、文字 Token 斗图、AI 自动学习用户新图，并原生支持多表情包库扩展。
 
 > [!NOTE]
-> **🎨 素材版权与原创致谢声明**：  
+> **🎨 素材版权与原创致谢声明**：
+> 该插件灵感来源yyh在dsh-market上发布的dsh-meme，并借鉴了部分功能。
 > 本插件内建的 64 张「哈基米」猫耳娘 Q 版表情包素材**非本人原创**，素材版权均归原作者所有！  
->该插件灵感来源yyh在dsh-market上发布的dsh-meme，并借鉴了部分功能。
 > 特别感谢原作者的精彩创作与无私分享，原作品 B 站出处链接：  
 > 🔗 **[\[Gemini\]A创聊天表情64张_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1F34G6BEVA/?vd_source=fa37798b584fd71f54c6564e37ef4d3e#reply320132746737)**
 
