@@ -1,0 +1,15 @@
+{
+  "name": "agy-meme",
+  "displayName": "AGY Meme 表情包",
+  "description": "Antigravity 表情包插件：AI 根据对话情绪自动发图、文字 token 斗图、AI 自动学习用户新图，支持多表情包库扩展。",
+  "version": "1.0.0",
+  "logo": "assets/logo.jpg",
+  "author": {
+    "name": "User"
+  },
+  "suggestedPrompts": [
+    "用表情包回我一个",
+    "发个表情看看",
+    "/meme 开心"
+  ]
+}

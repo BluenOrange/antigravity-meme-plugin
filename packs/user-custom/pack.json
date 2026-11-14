@@ -1,0 +1,11 @@
+{
+  "name": "user-custom",
+  "displayName": "用户自定义表情",
+  "description": "AI 自动学习并收录的用户表情包。用户发送新表情图片后，AI 会自动保存到此包并标注情绪标签。",
+  "version": "1.0.0",
+  "character": "用户自定义",
+  "count": 1,
+  "format": "PNG (各种尺寸)",
+  "filePattern": "{编号}_{描述}_{emoji}.png",
+  "learned": true
+}

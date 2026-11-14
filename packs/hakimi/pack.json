@@ -1,0 +1,10 @@
+{
+  "name": "hakimi",
+  "displayName": "哈基米 Hakimi",
+  "description": "紫发猫耳娘「哈基米」（基米奈）的 Q 版贴图，共 64 张透明背景 256×256 PNG。",
+  "version": "1.0.0",
+  "character": "哈基米 / 基米奈",
+  "count": 64,
+  "format": "PNG 256×256 透明背景",
+  "filePattern": "{编号}_{中文描述}_{emoji}.png"
+}
